@@ -3,7 +3,7 @@
 ![Unity](https://img.shields.io/badge/Unity-2D-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-**🕹️ Play It Live:** [Experience the game directly in your browser on Unity Play!](https://play.unity.com/en/games/943da9e2-da8a-4b9e-a679-26554d0ee38c/build2)
+**🕹️ Play It Live:** [Experience the game directly in your browser on Unity Play!](https://play.unity.com/en/games/943da9e2-da8a-4b9e-a679-26554d0ee38c/ludo-game-2d)
 
 A fully playable 2D adaptation of the classic Ludo board game, built in Unity. This project faithfully recreates the traditional rules of Ludo while adding dynamic digital features like automated turn management, dynamic token scaling, and integrated sound effects.
 
